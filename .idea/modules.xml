@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter02.iml" filepath="$PROJECT_DIR$/Chapter02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/step01broadcastreceiver/step01broadcastreceiver.iml" filepath="$PROJECT_DIR$/step01broadcastreceiver/step01broadcastreceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/step02notification/step02notification.iml" filepath="$PROJECT_DIR$/step02notification/step02notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/step03fragment/step03fragment.iml" filepath="$PROJECT_DIR$/step03fragment/step03fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/step03fragmentexample/step03fragmentexample.iml" filepath="$PROJECT_DIR$/step03fragmentexample/step03fragmentexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/step04example/step04example.iml" filepath="$PROJECT_DIR$/step04example/step04example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/step04viewpager/step04viewpager.iml" filepath="$PROJECT_DIR$/step04viewpager/step04viewpager.iml" />
+    </modules>
+  </component>
+</project>
